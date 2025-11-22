@@ -1,0 +1,7 @@
+.members-container {
+  padding: 40px;
+  background-color: #f9fafb;
+  min-height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
